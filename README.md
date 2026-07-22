@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Third-year Computer Science student at Chitkara University
+- 🎓 Fourth-year Computer Science student at Chitkara University
 - 💻 Full Stack & Backend Developer
 - ⚡ Interested in Distributed Systems & Real-Time Architectures
 - 🌱 Currently learning DevOps, Golang & Scalable System Design
